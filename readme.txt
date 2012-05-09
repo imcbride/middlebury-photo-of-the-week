@@ -1,5 +1,4 @@
-middlebury-photo-of-the-week
-============================
+=== middlebury-photo-of-the-week ===
 Contributors: imcbride
 Donate link: http://go.middlebury.edu/giving
 Tags: photos, middlebury

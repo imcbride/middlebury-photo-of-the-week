@@ -1,0 +1,4 @@
+.widget_middimages_widget a { border:none !important; text-decoration:none; margin:0; padding:0; }
+.widget_middimages_widget a:hover { border:none; text-decoration:none; }
+.widget_middimages_widget img { width:25%; display:inline; vertical-align:top; }
+.widget_middimages_widget img.first { width:100%; display:block; }
